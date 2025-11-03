@@ -1,0 +1,5 @@
+{
+  "/api/cities/route": "app/api/cities/route.js",
+  "/page": "app/page.js",
+  "/api/predict/route": "app/api/predict/route.js"
+}
